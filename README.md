@@ -13,6 +13,6 @@ Please find assignment named **HW4** in *Gradescope* and submit your answers.
 
 ## Part 2 in Jupyter
 
-* [Click here to open the HW4 notebook in google colab](https://colab.research.google.com/github/w4111/hw4-s22/blob/main/hw4_part2.ipynb)
+* [Click here to open the HW4 notebook in google colab](https://github.com/w4111/hw4-f24/blob/main/hw4_part2.ipynb)
 
 Please follow the instructions and submit the corresponding parts to Gradescope.
