@@ -1,6 +1,6 @@
 # Homework 4
-* Assigned : 10/29
-* Due : 11/21 11:59 pm
+* Assigned : 10/29 10:00 AM EST
+* Due : 11/21 11:59 PM EST 
 * Value : 3.75% of your grade
 
 # HW4 consists of two parts
