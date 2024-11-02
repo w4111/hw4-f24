@@ -3,6 +3,10 @@
 * Due : 11/21 11:59 PM EST 
 * Value : 3.75% of your grade
 
+# Edit Log
+* The Python Notebook has been updated to show the correct outputs for the query plans.
+* The previous notebook had some incorrect outputs which are now removed.
+
 # HW4 consists of two parts
 
 Please find corresponding instructions in the repo.
