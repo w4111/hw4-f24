@@ -3,7 +3,7 @@
 * Due : 11/21 11:59 PM EST 
 * Value : 3.75% of your grade
 
-# Edit Log
+# Edit Log (11/02/2024)
 * The Python Notebook has been updated to show the correct outputs for the query plans.
 * The previous notebook had some incorrect outputs which are now removed.
 
