@@ -3,10 +3,11 @@
 * Due : 12/01 11:59 PM EST 
 * Value : 3.75% of your grade
 
-# Edit Log (11/17/2024)
+# Edit Log (11/21/2024)
 * The Python Notebook has been updated to show the correct outputs for the query plans.
 * The previous notebook had some incorrect outputs which are now removed.
 * The earlier version of the python notebook had a typo in the example query plan where the estimated rows was mentioned to be 925 but it is supposed to be 1000. 
+* updated the deadline in the Python Notebook
 
 # HW4 consists of two parts
 
